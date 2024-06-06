@@ -1,6 +1,6 @@
 Fitbit Data Analysis Project
 Overview
-This project involves analyzing Fitbit data stored in Google BigQuery. The analysis aims to explore various aspects of the data, including column names and types, timestamp validation, and activity patterns. The project also includes an in-depth look at daily activity, calorie burn, intensity levels, and sleep patterns.
+This project involves analyzing Fitbit data stored in Kaggle. The analysis aims to explore various aspects of the data, including column names and types, timestamp validation, and activity patterns. The project also includes an in-depth look at daily activity, calorie burn, intensity levels, and sleep patterns.
 
 Table of Contents
 Introduction
